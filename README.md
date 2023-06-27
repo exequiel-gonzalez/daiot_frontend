@@ -1,4 +1,4 @@
-# Chipsmuni-dashboard (dashboard)
+# Daiot-dashboard (dashboard)
 
 A dashboard
 
